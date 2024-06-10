@@ -8,7 +8,7 @@ export const Precos = () => {
              <div id='pricing' className='container-fluid'>
             <div className='text-center'>
                 <h2>PREÇOS</h2>
-                <h4>Escolha o melhor plano para você.</h4>
+                <h4>Escolha o melhor plano para você</h4>
             </div>
             <div className='row '>
                 <div className='col-sm-4 col-xs-12'>
